@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.abb2784b.chunk.css",
-    "main.js": "/static/js/main.51b45f52.chunk.js",
-    "main.js.map": "/static/js/main.51b45f52.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ef10ae82.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ef10ae82.js.map",
-    "static/css/2.fe359a49.chunk.css": "/static/css/2.fe359a49.chunk.css",
-    "static/js/2.9866786b.chunk.js": "/static/js/2.9866786b.chunk.js",
-    "static/js/2.9866786b.chunk.js.map": "/static/js/2.9866786b.chunk.js.map",
-    "static/js/3.75009511.chunk.js": "/static/js/3.75009511.chunk.js",
-    "static/js/3.75009511.chunk.js.map": "/static/js/3.75009511.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.abb2784b.chunk.css.map": "/static/css/main.abb2784b.chunk.css.map",
-    "static/js/2.9866786b.chunk.js.LICENSE.txt": "/static/js/2.9866786b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/LeviReBrushed.8e16887a.woff",
-    "static/media/index.css": "/static/media/bg.8bba1635.jpg"
+    "main.css": "/KittyFriends/static/css/main.206dab0c.chunk.css",
+    "main.js": "/KittyFriends/static/js/main.51b45f52.chunk.js",
+    "main.js.map": "/KittyFriends/static/js/main.51b45f52.chunk.js.map",
+    "runtime-main.js": "/KittyFriends/static/js/runtime-main.ef9d1cdb.js",
+    "runtime-main.js.map": "/KittyFriends/static/js/runtime-main.ef9d1cdb.js.map",
+    "static/css/2.fe359a49.chunk.css": "/KittyFriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.9866786b.chunk.js": "/KittyFriends/static/js/2.9866786b.chunk.js",
+    "static/js/2.9866786b.chunk.js.map": "/KittyFriends/static/js/2.9866786b.chunk.js.map",
+    "static/js/3.75009511.chunk.js": "/KittyFriends/static/js/3.75009511.chunk.js",
+    "static/js/3.75009511.chunk.js.map": "/KittyFriends/static/js/3.75009511.chunk.js.map",
+    "index.html": "/KittyFriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/KittyFriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.206dab0c.chunk.css.map": "/KittyFriends/static/css/main.206dab0c.chunk.css.map",
+    "static/js/2.9866786b.chunk.js.LICENSE.txt": "/KittyFriends/static/js/2.9866786b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KittyFriends/static/media/LeviReBrushed.8e16887a.woff",
+    "static/media/index.css": "/KittyFriends/static/media/bg.8bba1635.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef10ae82.js",
+    "static/js/runtime-main.ef9d1cdb.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.9866786b.chunk.js",
-    "static/css/main.abb2784b.chunk.css",
+    "static/css/main.206dab0c.chunk.css",
     "static/js/main.51b45f52.chunk.js"
   ]
 }
